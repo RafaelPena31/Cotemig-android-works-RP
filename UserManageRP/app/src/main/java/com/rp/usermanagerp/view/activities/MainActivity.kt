@@ -11,6 +11,13 @@ import com.rp.usermanagerp.R
 import com.rp.usermanagerp.services.UserService
 
 class MainActivity : AppCompatActivity() {
+    /*
+    *  NOME: RAFAEL AUGUSTO PENA PEREIRA MESQUITA
+    *  MATRÍCULA: 11901322
+    *  TURMA: 3B1
+    *  GITHUB: #RafaelPena31
+    * */
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
