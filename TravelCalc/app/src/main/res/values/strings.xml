@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel Calc</string>
+    <!--Main Screen-->
+    <string name="distance_hint">Distância</string>
+    <string name="distance_label">Total de quilômetros</string>
+
+    <string name="price_hint">Preço</string>
+    <string name="price_label">Preço por litro</string>
+
+    <string name="autonomy_hint">Autonomia</string>
+    <string name="autonomy_label">KMs por litro</string>
+
+    <string name="result_label">SEU GASTO TOTAL SERÁ DE:</string>
+    <string name="result_initial_text">R$ 0</string>
+
+    <string name="calc_button_label">Calcular</string>
+</resources>

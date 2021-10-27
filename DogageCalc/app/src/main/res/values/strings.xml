@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dogage Calc</string>
+
+    <!--Main Screen-->
+    <string name="main_screen_title">Idade de Cachorro</string>
+    <string name="main_screen_input_human_age">Informe a sua idade</string>
+    <string name="main_screen_button_human_age">Calcular</string>
+    <string name="main_screen_static_result_label">Resultado</string>
+    <string name="main_screen_result_label">A sua idade de cachorro é:</string>
+</resources>
